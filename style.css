@@ -1,0 +1,159 @@
+html {
+    background: grey;
+    border: 5px solid lightgrey;
+}
+body::-webkit-scrollbar {
+    display: none;
+}
+.results {
+    font-size: 50px;
+    color: grey;
+    background: white;
+    border: 5px solid lightgrey;
+    margin: auto;
+    padding: 20px;
+    text-align: right;
+}
+h1 {
+    font-size: 40px;
+}
+.buttons {
+    max-width: 800px;
+    max-height:800px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    font-size: 40px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+  }
+  
+#zero {
+    color: grey;
+    background: white;
+    border-radius: 100%;
+    border: 5px solid lightgrey;
+    padding: 35px;
+    margin: 10px 10px 10px 10px;
+}
+#one {
+    color: grey;
+    background: white;
+    border-radius: 100%;
+    border: 5px solid lightgrey;
+    padding: 35px;
+    margin: 10px 10px 10px 10px;
+}
+#two {
+    color: grey;
+    background: white;
+    border-radius: 100%;
+    border: 5px solid lightgrey;
+    padding: 35px;
+    margin: 10px 10px 10px 10px;
+}
+#three {
+    color: grey;
+    background: white;
+    border-radius: 100%;
+    border: 5px solid lightgrey;
+    padding: 35px;
+    margin: 10px 10px 10px 10px;
+}
+#four {
+    color: grey;
+    background: white;
+    border-radius: 100%;
+    border: 5px solid lightgrey;
+    padding: 35px;
+    margin: 10px 10px 10px 10px;
+}
+#five {
+    color: grey;
+    background: white;
+    border-radius: 100%;
+    border: 5px solid lightgrey;
+    padding: 35px;
+    margin: 10px 10px 10px 10px;
+}
+#six {
+    color: grey;
+    background: white;
+    border-radius: 100%;
+    border: 5px solid lightgrey;
+    padding: 35px;
+    margin: 10px 10px 10px 10px;
+}
+#seven {
+    color: grey;
+    background: white;
+    border-radius: 100%;
+    border: 5px solid lightgrey;
+    padding: 35px;
+    margin: 10px 10px 10px 10px;
+}
+#eight {
+    color: grey;
+    background: white;
+    border-radius: 100%;
+    border: 5px solid lightgrey;
+    padding: 35px;
+    margin: 10px 10px 10px 10px;
+}
+#nine {
+    color: grey;
+    background: white;
+    border-radius: 100%;
+    border: 5px solid lightgrey;
+    padding: 35px;
+    margin: 10px 10px 10px 10px;
+}
+#add {
+    color: grey;
+    background: white;
+    border-radius: 100%;
+    border: 5px solid lightgrey;
+    padding: 35px;
+    margin: 10px 10px 10px 10px;
+}
+#subtract {
+    color: grey;
+    background: white;
+    border-radius: 100%;
+    border: 5px solid lightgrey;
+    padding: 35px;
+    margin: 10px 10px 10px 10px;
+}
+#divide {
+    color: grey;
+    background: white;
+    border-radius: 100%;
+    border: 5px solid lightgrey;
+    padding: 35px;
+    margin: 10px 10px 10px 10px;
+}
+#multiply {
+    color: grey;
+    background: white;
+    border-radius: 100%;
+    border: 5px solid lightgrey;
+    padding: 35px;
+    margin: 10px 10px 10px 10px;
+}
+#decimal {
+    color: grey;
+    background: white;
+    border-radius: 100%;
+    border: 5px solid lightgrey;
+    padding: 35px;
+    margin: 10px 10px 10px 10px;
+}
+#equals {
+    color: grey;
+    background: white;
+    border-radius: 100%;
+    border: 5px solid lightgrey;
+    padding: 35px;
+    margin: 10px 10px 10px 10px;
+}
